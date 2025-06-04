@@ -1,4 +1,4 @@
-<center> Hi there 👋, I'm Calvin Eklu. </center>
+ ## <center> Hi there 👋, I'm Calvin Eklu. </center>
 
 <center> <b>A passionate programmer looking to blend technology and sports</b> </center>
 
