@@ -1,5 +1,5 @@
-## Hi there 👋, I'm Calvin Eklu.
-<hr> 
+## <center> Hi there 👋, I'm Calvin Eklu. </center>
+
 <center> <b>A passionate programmer looking to blend technology and sports</b> </center>
 
 - 🔭 I’m currently working on RapidAid
