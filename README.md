@@ -1,4 +1,4 @@
-## 💫 About Me: Hi there 👋, I'm Calvin Eklu.
+## Hi there 👋, I'm Calvin Eklu 💫.
 - 🔭 I’m currently working on RapidAid<br>- 🌱 I’m currently learning Flutter & Dart<br>- 📫 How to reach me: eklucalvin@gmail.com
 
 ## 🌐 Socials:
