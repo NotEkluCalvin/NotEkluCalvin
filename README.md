@@ -24,15 +24,15 @@
 
 ###
 
-<h1 align="center">Hi there 👋, I'm Calvin🥷</h1>
+<h1 align="center">Hi, I'm Calvin🥷</h1>
 
 ###
 
-<h3 align="center">A computer nerd passionate about the intersection of technology with sports</h3>
+<h3 align="center"> Wannabe graphics programmer/rendering engineer </h3>
 
 ###
 
-<p align="left">- 🔭 Working on RapidAid<br>- 📚 I’m currently learning Flutter & Dart<br>- ⚡ In my free time I like to build projects, read books and learn about sports analytics</p>
+<p align="left">- 🔭 I do IT Support at Origin8 Limited <br>- 📚 I’m currently learning JS <br>- ⚡ If I'm not programming/working then I'm reading (Visakan Veerasamy is such a great writer), watching @thePrimeagen, or checking out projects on Reddit and X </p>
 
 ###
 
